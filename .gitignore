@@ -1,0 +1,24 @@
+# Binaries
+/bin/
+/dist/
+/build/
+
+# Go build and test artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.tmp
+*.log
+
+# Go modules cache
+/pkg/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
