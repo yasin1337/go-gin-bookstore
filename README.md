@@ -47,4 +47,3 @@ The server starts on `localhost:1337` by default.
 - Swap the in-memory slice for persistent storage.
 - Add authentication and richer validation.
 - Write handler tests using `net/http/httptest`.
-# go-bookstore
